@@ -1,0 +1,28 @@
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.screenshot{
+	max-width: 460px;
+}
+.description{
+	max-width: 705px;
+	margin-left: auto;
+}
+.app{
+	display: -webkit-flex;
+	display: flex;
+} 
+#title{
+	background-color: #ff0000;
+	color: white;
+	font-size: 48px;
+	font-family: Helvetica;
+	text-align: center;
+	padding: 20px;
+	margin: 30px;
+
+}

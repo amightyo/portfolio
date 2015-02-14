@@ -15,3 +15,9 @@ body{
 .title-logo{
 	margin-top: 20px;
 }
+.mockup-overlay {
+       top: 0;
+       position: absolute;
+       z-index: -1;
+       opacity: 0.4;
+    }
